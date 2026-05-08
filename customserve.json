@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "sa-72",
+            "address": "https://anisette-v3-server-bxlr.onrender.com/"
+        }
+    ]
+}
